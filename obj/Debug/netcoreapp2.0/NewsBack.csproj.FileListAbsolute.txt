@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\NewsBack\bin\Debug\netcoreapp2.0\NewsBack.deps.json
+c:\Users\Administrator\Desktop\NewsBack\bin\Debug\netcoreapp2.0\NewsBack.runtimeconfig.json
+c:\Users\Administrator\Desktop\NewsBack\bin\Debug\netcoreapp2.0\NewsBack.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\NewsBack\bin\Debug\netcoreapp2.0\NewsBack.dll
+c:\Users\Administrator\Desktop\NewsBack\bin\Debug\netcoreapp2.0\NewsBack.pdb
+c:\Users\Administrator\Desktop\NewsBack\obj\Debug\netcoreapp2.0\NewsBack.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\NewsBack\obj\Debug\netcoreapp2.0\NewsBack.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\NewsBack\obj\Debug\netcoreapp2.0\NewsBack.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\NewsBack\obj\Debug\netcoreapp2.0\NewsBack.dll
+c:\Users\Administrator\Desktop\NewsBack\obj\Debug\netcoreapp2.0\NewsBack.pdb
